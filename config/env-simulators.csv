@@ -1,0 +1,2 @@
+clotho_host,clotho_port,packager_host,packager_port,delphi_gw_host,delphi_gw_port
+localhost,9700,localhost,9543,localhost,9543
